@@ -1,0 +1,6 @@
+eyed3
+streamlit_options_menu
+stepic
+streamlit
+PIL
+base64
